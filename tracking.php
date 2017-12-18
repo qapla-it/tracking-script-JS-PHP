@@ -4,7 +4,7 @@
 <!-- Place this code after <body> tag -->
 <script type="text/javascript">
     var apiKey = '{your-public-API-Key}';
-    var reference = '<?=$_GET['refernce']?>'; //shipment order reference
+    var reference = '<?=$_GET['reference']?>'; //shipment order reference
     //var noCSS = true;  // ovveride CSS
     //var bw = true; // black & white ?
 </script>
